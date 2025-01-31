@@ -33,7 +33,7 @@ The API is publicly accessible and includes **CORS handling** for cross-origin r
 {
   "email": "uviekugbere.theo@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/Theo-uviekugbere/hng-internship-go"
 }
 ```
 ---

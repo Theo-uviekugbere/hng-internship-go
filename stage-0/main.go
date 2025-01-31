@@ -35,7 +35,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	response := Response{
 		Email:           "uviekugbere.theo@gmail.com",
 		CurrentDatetime: time.Now().UTC().Format(time.RFC3339),
-		GitHubURL:       "",
+		GitHubURL:       "https://github.com/Theo-uviekugbere/hng-internship-go",
 	}
 
 	json.NewEncoder(w).Encode(response)
