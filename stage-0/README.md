@@ -35,7 +35,8 @@ The API is publicly accessible and includes **CORS handling** for cross-origin r
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/your-repo"
 }
-
+```
+---
 ## ⚙️ How to Run Locally
 
 ### 1️⃣ Clone the Repository
